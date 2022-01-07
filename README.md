@@ -19,11 +19,21 @@ bzw.
 <p id="mySpecialPara"> This is a paragraph with id-style. Ids must be unique, that means you can have only one tag with this id-style!</p>
 </code></pre>
 
+```html
+<p id="mySpecialPara"> This is a paragraph with id-style. Ids must be unique</p>
+```
+
 In der CSS-Datei:
 
+```css
 #mySpecialPara {
    font-size:20px;
 }
+```
 
 Inline-Variante:
 <p style="font-size:20px;"> This is a paragraph. </p>
+
+```javascript
+let a = 1;
+```

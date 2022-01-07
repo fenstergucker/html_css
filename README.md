@@ -15,7 +15,9 @@ In der CSS-Datei:
 
 bzw.
 
+<pre><code>
 <p id="mySpecialPara"> This is a paragraph with id-style. Ids must be unique, that means you can have only one tag with this id-style!</p>
+</code></pre>
 
 In der CSS-Datei:
 
